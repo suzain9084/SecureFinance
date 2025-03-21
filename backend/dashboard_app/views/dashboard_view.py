@@ -1,0 +1,2 @@
+class DashboardView():
+    pass
